@@ -8,7 +8,7 @@
             "Wdpf\\Session\\": "src/"
         },
         "files": [
-          "src/session/section.php"
+          "src/session/session.php"
         ]
     },
     "authors": [
