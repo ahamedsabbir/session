@@ -1,5 +1,5 @@
 <?php
-require "session.php";
+require "src/session/session.php";
 //$session = new wdpf\session\session();
 session::init();
 //echo session::$id;

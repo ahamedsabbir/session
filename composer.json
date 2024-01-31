@@ -1,0 +1,18 @@
+{
+    "name": "wdpf/session",
+    "description": "this package help remember the data of package.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wdpf\\Session\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "israt ahamed sabbir"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
