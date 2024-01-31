@@ -6,10 +6,7 @@
     "autoload": {
         "psr-4": {
             "Wdpf\\Session\\": "src/"
-        },
-        "files": [
-          "src/session/session.php"
-        ]
+        }
     },
     "authors": [
         {
